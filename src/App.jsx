@@ -1,11 +1,1 @@
-import React from 'react';
-
-function App() {
-  return (
-    <div className="min-h-screen bg-gray-50">
-      <h1>Hello World!</h1>
-    </div>
-  );
-}
-
-export default App;
+aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKCmZ1bmN0aW9uIEFwcCgpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBiZy1ncmF5LTUwIj4KICAgICAgPGgxPkhlbGxvIFdvcmxkITwvaDE+CiAgICA8L2Rpdj4KICB9Owp9CgpleHBvcnQgZGVmYXVsdCBBcHA7
